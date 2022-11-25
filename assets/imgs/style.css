@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+   }
+
+.body {font-family: 'Raleway', sans-serif;
+background-color: black;  
+}
+  
+
+.carouselExampleControls{
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position: center;
+}
+.card h1 {
+    color: blanchedalmond;
+    text-align: center;   
+}
+.footer {
+  color: rgb(237, 37, 147);
+    text-align: center;  
+  
+}
